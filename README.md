@@ -1,2 +1,2 @@
-# LT-s-firsst-repo
+# LT-first-repo
 my first repo
